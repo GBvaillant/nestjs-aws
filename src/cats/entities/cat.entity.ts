@@ -10,4 +10,4 @@ export class Cat extends Document {
   url: string;
 }
 
-export const CatSchema = SchemaFactory.createForClass(File);
+export const CatSchema = SchemaFactory.createForClass(Cat);
