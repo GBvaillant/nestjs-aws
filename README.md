@@ -120,4 +120,4 @@ curl -X POST http://localhost:3000/cats \
 
 ## 📄 Licença
 
-Projeto livre para fins de estudo. Desenvolvido por [Gabriel Vaillant](https://github.com/seu-usuario).
+Projeto livre para fins de estudo. Desenvolvido por [Gabriel Vaillant](https://github.com/GBvaillant).
