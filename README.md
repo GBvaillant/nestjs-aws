@@ -24,7 +24,7 @@ As imagens são armazenadas em um **bucket S3 simulado com LocalStack**, e os me
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/http-cats-api.git
+git clone https://github.com/GBvaillant/http-cats-api.git
 cd http-cats-api
 ```
 
