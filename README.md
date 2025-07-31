@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
  <h1>🐱 HTTP Cats API</h1>
 
 Uma API RESTful feita com **NestJS** que permite cadastrar e listar imagens de gatos representando códigos de status HTTP (ex: 401, 404, 500 etc).
